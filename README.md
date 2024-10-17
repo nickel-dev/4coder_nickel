@@ -18,4 +18,4 @@ The put the resulting source folder in your ".../4coder/custom/" directory and e
 - custom file headers in [4coder_fleury_nickel.cpp](https://github.com/nickel-dev/4coder_nickel/blob/main/4coder_fleury_nickel.cpp#L38)
 - Hex color preview in theme files (copied from [hex_colors.cpp](https://gist.github.com/thevaber/58bb6a1c03ebe56309545f413e898a95))
 - grep ([ripgrep](https://github.com/BurntSushi/ripgrep)) command inside of the editor
-- manpages (using (wsl)[https://learn.microsoft.com/en-us/windows/wsl/]) inside of the editor
+- manpages (using [wsl](https://learn.microsoft.com/en-us/windows/wsl/)) inside of the editor
